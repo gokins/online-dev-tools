@@ -90,6 +90,16 @@ var links = [
                 "name": "mirrors.ustc",
                 "url": "http://mirrors.ustc.edu.cn/"
             },
+
+        ]
+    },
+    {
+        "c": "休闲‧摸鱼",
+        "a": [
+            {
+                "name": "小霸王",
+                "url": "https://www.yikm.net",
+            },
             {
                 "name": "俄罗斯方块",
                 "url": "https://chvin.github.io/react-tetris/?lan=zh"
@@ -214,8 +224,8 @@ var links = [
                 "url": "https://juejin.im"
             },
             {
-                "name": "微信文章",
-                "url": "https://weixin.sogou.com/"
+                "name": "公众号文章",
+                "url": "https://weixin.sogou.com/weixin?type=2&s_from=input&query=golang&ie=utf8"
             },
             {
                 "name": "Leetcode",
@@ -225,22 +235,38 @@ var links = [
                 "name": "Lintcode",
                 "url": "https://www.lintcode.com/problem"
             },
+            {
+                "name":"学点统计学",
+                "url":"https://seeing-theory.brown.edu/cn.html"
+            },
         ]
     },
     {
-        "c": "导图文案",
+        "c": "PPT‧写作",
         "a": [
             {
-                "name": "Emoji大全",
-                "url": "https://emoji.svend.cc/"
+                "name":"写作辅助",
+                "url":"https://xiezuocat.com",
+            },
+            {
+                "name": "文档翻译",
+                "url": "https://www.onlinedoctranslator.com/"
+            },
+            {
+                "name": "PPT模板",
+                "url": "http://www.1ppt.com"
             },
             {
                 "name": "字体下载",
                 "url": "http://www.fonts.net.cn"
             },
             {
-                "name": "PPT模板",
-                "url": "http://www.1ppt.com"
+                "name":"毛笔字",
+                "url":"http://www.shufami.com"
+            },
+            {
+                "name":"词语拼图",
+                "url":"https://www.yciyun.com",
             },
             {
                 "name": "谐音工具",
@@ -260,11 +286,7 @@ var links = [
             },
             {
                 "name": "GitMind",
-                "url": "https://gitmind.cn/"
-            },
-            {
-                "name": "文档翻译",
-                "url": "https://www.onlinedoctranslator.com/"
+                "url": "https://gitmind.cn"
             },
             {
                 "name": "ProcessOn",
@@ -274,10 +296,14 @@ var links = [
                 "name": "Ascii流程图",
                 "url": "http://asciiflow.com/"
             },
+            {
+                "name": "Emoji大全",
+                "url": "https://emoji.svend.cc/"
+            },
         ]
     },
     {
-        "c": "数据文献",
+        "c": "数据‧文献",
         "a": [
             {
                 "name": "国家图书馆",
@@ -318,7 +344,7 @@ var links = [
         ]
     },
     {
-        "c": "开源标准",
+        "c": "开源‧标准",
         "a": [
             {
                 "name": "国家标准公开",
@@ -446,7 +472,15 @@ var links = [
                 "name": "开发手册大全",
                 "url": "https://cloud.tencent.com/developer/devdocs"
             },
-            ////{"name":"","url":""},
+        ]
+    },
+    {
+        "c":"其他工具",
+        "a":[
+            {
+                "name":"手机号注册查询",
+                "url":"https://www.reg007.com",
+            }
         ]
     },
 ];
